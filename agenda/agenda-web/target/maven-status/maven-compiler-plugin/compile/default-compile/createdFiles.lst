@@ -1,0 +1,5 @@
+br/com/progweb/agenda/rest/MemberResourceRESTService.class
+br/com/progweb/agenda/controller/MemberController.class
+br/com/progweb/agenda/rest/JaxRsActivator.class
+br/com/progweb/agenda/util/WebResources.class
+br/com/progweb/agenda/rest/AgendaResource.class

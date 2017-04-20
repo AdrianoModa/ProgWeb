@@ -1,0 +1,8 @@
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/util/Resources.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/data/MemberListProducer.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/data/MemberRepository.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/model/Member.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/service/MemberRegistration.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/dao/ContatosDAO.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/entitys/Contatos.java
+/home/frodostark/workspace/agenda/agenda-ejb/src/main/java/br/com/progweb/agenda/bo/ContatosBO.java

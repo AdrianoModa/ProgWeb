@@ -1,0 +1,8 @@
+br/com/progweb/agenda/util/Resources.class
+br/com/progweb/agenda/data/MemberRepository.class
+br/com/progweb/agenda/entitys/Contatos.class
+br/com/progweb/agenda/data/MemberListProducer.class
+br/com/progweb/agenda/model/Member.class
+br/com/progweb/agenda/bo/ContatosBO.class
+br/com/progweb/agenda/dao/ContatosDAO.class
+br/com/progweb/agenda/service/MemberRegistration.class
