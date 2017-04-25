@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://xmlns.jcp.org/jsf/html">
+<h:head>
+	<title>Olá JSF</title>
+</h:head>
+<h:body>
+	<h:form>
+		<h1>Tela Cadastro com REST</h1>
+		<h:commandButton value="Cadastrados"
+			action="#{eventoMB.eventosCadastrados}" />
+		<h:commandButton action="#{eventoMB.deletarEventosId()['id']}" value="Deletado" />	
+	</h:form>
+</h:body>
+</html>
